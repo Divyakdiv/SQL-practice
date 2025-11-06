@@ -21,3 +21,11 @@ To strengthen my SQL skills for real-world applications and technical interviews
 ## 🛠 Tools Used
 - MySQL Workbench
 - GitHub for version control
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Divyakdiv/SQL-practice/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
